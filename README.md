@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marcoantonetti&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoantonetti=compact"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoantonetti&layout=compact&theme=dark"/>
+
+<style> body { "text-allign:center" } </style>
