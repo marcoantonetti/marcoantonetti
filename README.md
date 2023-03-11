@@ -1,4 +1,9 @@
-### Hi there 👋
+[![MasterHead](https://user-images.githubusercontent.com/63437979/224495925-5c55216d-2871-41a8-816e-d5efb97a4579.png)](https://github.com/marcoantonetti)
+
+
+
+### Hi there 👋 I am a very hard working individual, I love solving problems. Right now I am coding scripts and building proyects until I reach my first front end developer job. As a university graduate I had learned to acquire good practices for problem solving, work design, study dicipline, and much more. Feel free to  browse my proyects. You will find algorithms challenges solved with javascript, landing pages, over-customize forms (for practice purposes) and two e-commerce done with HTML, TypeScript and CSS.
+
 
 <!--
 **marcoantonetti/marcoantonetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
