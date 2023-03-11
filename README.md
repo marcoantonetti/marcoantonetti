@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Lord or Sir or Him
 - ⚡ Fun fact: I am a biologist and snowboard instructor as well. Biology is full of problem solving and good work design (experiments wireframe) that allows you to do a good and organize research.
 -->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcoantonetti&theme=vue-dark&mode=weekly)](https://git.io/streak-stats)
+
