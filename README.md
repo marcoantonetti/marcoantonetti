@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcoantonetti&theme=vue-dark&mode=weekly)](https://git.io/streak-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=marcoantonetti)](https://github.com/ryo-ma/github-profile-trophy)
