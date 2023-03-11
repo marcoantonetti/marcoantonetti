@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=marcoantonetti&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=marcoantonetti&count=3&width=600)](https://open.spotify.com/user/marcoantone?si=0473fa5210df4780)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=marcoantonetti&count=3&width=600)](https://open.spotify.com/user/marcoantone)
