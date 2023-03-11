@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoantonetti=compact"/>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=marcoantonetti&repo=e-commerce-ski-shop"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcoantonetti&layout=compact&theme=dark"/>
